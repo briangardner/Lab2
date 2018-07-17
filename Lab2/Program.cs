@@ -20,7 +20,6 @@ namespace Lab2
                 //Do Calculations
                 var area = CalculateArea(length, width);
                 var perimeter = CalculatePerimeter(length, width);
-                var volume = CalculateVolume(length, width, heigh);
 
                 //Output Results
                 Console.WriteLine($"Area: {area}");
